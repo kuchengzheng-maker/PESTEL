@@ -499,7 +499,202 @@ is becoming a function of your ZIP code's politics rather than your household's 
 
 ---
 
-## 1.5 The two policies interact — and the interaction is the point
+## 1.5 Do U.S. manufacturers charge Americans more because of the ban?
+
+**The claim to be tested:** protected from Chinese competition and shielded by tariffs,
+American manufacturers price their vehicles higher in the United States than they do in
+markets where they face real competition.
+
+The intuition is sound and the mechanism is real. But the claim has to be stated
+carefully, because **on a straight cross-border sticker comparison it does not hold** —
+and an argument built on that comparison would collapse the first time anyone checked it.
+What follows tests the literal claim, shows why it fails, and then sets out the evidence
+that does support the underlying point. That evidence is stronger, not weaker.
+
+---
+
+### Test 1 — Same model, same factory, three markets: the Ford Mustang Mach-E
+
+The Mach-E is the ideal test case. It is an American-brand EV built at a single plant —
+Ford's Cuautitlán Assembly in Mexico — and sold in the U.S., Mexico, and Europe. Same
+product, same factory, three markets, one manufacturer's pricing decision.
+
+| Market | Entry trim | Local price | Basis | ≈ USD ex-tax | vs. U.S. |
+|---|---|---|---|---|---|
+| **United States** | Select | **$37,795** | no VAT in sticker | **$37,795** | — |
+| **Mexico** | Select | **MXN 996,500** | Ford México lists **excluding IVA** | **≈ $56,600** | **+50%** |
+| **Germany** | base RWD | **€55,800** | includes 19% VAT | €46,891 → **≈ $54,500** | **+44%** |
+
+The result is unambiguous and it runs directly against the claim. Ford charges Americans
+**roughly a third less** for the Mach-E than it charges Mexicans or Germans — for a car
+built in Mexico. Even on the most conservative reading of the Mexican listing (treating
+MXN 996,500 as IVA-inclusive, which Ford México's own disclaimer says it is not), the
+Mexican price still lands near **$48,800**, nearly 30% above the U.S.
+
+### Test 2 — Chevrolet Equinox EV, U.S. vs. Mexico
+
+Also built in Mexico (Ramos Arizpe), also sold in both markets.
+
+| Market | Trim | Price | ≈ USD ex-tax | vs. U.S. |
+|---|---|---|---|---|
+| **United States** | RS | $45,595 | $45,595 | — |
+| **Mexico** | RS | MXN 900,000 | **≈ $44,100–51,100** depending on IVA treatment | −3% to +12% |
+
+Roughly parity, with the direction depending on a tax-treatment assumption I cannot
+resolve from public listings. Worth noting separately: **Mexico is only offered the
+top RS trim.** The $36,495 LT1 that anchors the U.S. lineup is not sold there. On
+*entry* price, the American buyer is better served.
+
+### Test 3 — Market-level averages
+
+| Market | Average new-vehicle price (2026) | ≈ USD |
+|---|---|---|
+| **United States** | $49,855 (July 2026 ATP, a 2026 high) | **$49,855** |
+| **Germany** | ≈ $49,000 | **≈ $49,000** |
+| **Canada** | C$63,264 | **≈ $45,700** |
+
+The U.S. is at the top of this range but not dramatically — about 9% above Canada and
+level with Germany. Note that the widely-repeated claim that Canadian cars cost "27%
+more" than American ones compares a CAD figure to a USD figure and is simply a currency
+error.
+
+---
+
+### Why the cross-border sticker test is the wrong test
+
+Three structural reasons U.S. list prices sit below foreign ones, none of which have
+anything to do with competition:
+
+1. **Home-market scale.** The U.S. is the Mach-E's home volume market; Mexico and Germany
+   are low-volume export markets where the car is a niche import carrying import logistics,
+   homologation, small-network dealer margin, and a thin premium-buyer base.
+2. **Tax and equipment.** European prices embed VAT and a different standard-equipment
+   and regulatory-compliance load.
+3. **Positioning.** An American brand in Europe is a specialty product priced against
+   premium German marques, not against the volume segment it competes in at home.
+
+A manufacturer's foreign price tells you about that foreign market's structure. It does
+**not** tell you what the manufacturer would charge Americans in a more competitive U.S.
+market. That counterfactual — not the cross-border spread — is the right benchmark, and
+it is where the evidence actually is.
+
+---
+
+### The evidence that does support the claim: four findings
+
+#### Finding 1 — Demand collapsed 28%, and discounts shrank anyway
+
+This is the single most telling data point in the section.
+
+In a competitively-disciplined market, a 28% year-on-year collapse in volume forces
+manufacturers to discount hard. That is what competition *is*. Instead, through 2026:
+
+| Indicator | Movement |
+|---|---|
+| New BEV sales, Q1 2026 | **−28% YoY** |
+| **EV incentive spending** | **−24%** |
+| Industry incentives as % of ATP, July 2026 | **6.4%** — down from 7.0% in June, 7.3% a year earlier; lowest since January |
+| Average incentive per vehicle | **$3,192** |
+| New-vehicle ATP, July 2026 | **$49,855 — a 2026 high** |
+
+Volume fell by more than a quarter and manufacturers *reduced* the discounts they offer
+and *raised* realized prices. That combination is very hard to produce in a market facing
+credible low-cost competition, and it is exactly what a protected market looks like.
+
+#### Finding 2 — Tariffs were passed through by shrinking the deal, not by raising the sticker
+
+Industry reporting is explicit that automakers largely **absorbed** tariff costs into
+sticker prices and are instead **letting the deals shrink**. That single fact invalidates
+the sticker-comparison approach to this question. The price increase American consumers
+are paying is real — roughly **$4,000–6,000 of the $8,000–12,000 rise in average new-vehicle
+prices since Q4 2024** is attributed to tariffs — but it is being delivered through the
+incentive line, where it is invisible on any MSRP table, foreign or domestic.
+
+**If you compare stickers, you will conclude nothing happened. That is why the comparison
+has to be made against discounts and margins instead.**
+
+#### Finding 3 — Margins expanded during the demand collapse
+
+| GM, 2026 | Value |
+|---|---|
+| North America EBIT-adjusted margin, Q2 2026 | **8.6%, up 2.5 points YoY** |
+| Gross 2026 tariff cost | $2.5–3.5bn |
+| Share offset via pricing, footprint, and cost actions | **more than 40%** |
+| Full-year profit outlook | **raised to as much as $16bn — the second raise of the year** |
+
+A manufacturer whose principal EV segment fell 28%, which is carrying billions in new
+tariff costs, and which nonetheless expanded North American margins by 2.5 points and
+raised guidance twice, is not a manufacturer under competitive pressure. It is one
+operating under a price umbrella.
+
+#### Finding 4 — Segment abandonment: the affordable end was withdrawn, not just priced up
+
+The clearest expression of reduced competitive pressure is that U.S. manufacturers
+stopped trying to serve the bottom of the market at all:
+
+- Combined EV write-downs across **Ford, GM, and Stellantis now exceed $53 billion**.
+- Ford **killed the F-150 Lightning in December 2025** in a $19.5bn write-down and scrapped
+  its next-generation electric truck programme (T3).
+- Ford's Tennessee EV plant was **converted to gasoline truck production** — 1,000 hires
+  to add 50,000 conventional F-150 and Super Duty units in 2026.
+- **GM paused next-generation electric pickups** and appears to have shelved the
+  next-generation affordable EV once planned for Fairfax.
+
+Firms facing a $20,000 competitor cannot abandon the $20,000 segment. Firms that have had
+that competitor legislated away can — and, on this evidence, do.
+
+---
+
+### The historical precedent: this has been measured before
+
+The U.S. has run this experiment. In May 1981 Japan agreed to a Voluntary Export
+Restraint limiting car exports to the United States, explicitly to give Detroit room to
+retool. The measured consequences:
+
+- Between April 1981 and April 1984, suggested retail prices of Japanese models in the
+  U.S. rose **15.8%** — about 5.3% a year — with **nearly the entire increase explained
+  by upgrading** rather than inflation.
+- Robert Feenstra's work established that roughly **two-thirds of the price increase came
+  from quality and trim upgrading**: constrained on units, manufacturers shifted the mix
+  toward higher-specification, higher-margin cars.
+- Over 1986–1990, the restraint left Japanese cars in the U.S. about **$1,200 more
+  expensive (1983 dollars), roughly 14% above the unrestrained counterfactual**.
+- The distributional effect was specific: *"This upgrading may benefit consumers who would
+  purchase a luxury import in any case, but harms those who desire the basic imports."*
+
+That last sentence, written about 1981, describes the 2026 EV market exactly. Quantity
+restriction does not usually show up as a visible price increase on a like-for-like car.
+It shows up as **the cheap version quietly ceasing to exist**, and the average price
+rising because the mix moved upmarket. Which is precisely the pattern in §1.3,
+Comparison 2 — a U.S. EV ladder with no rungs below $29,000.
+
+---
+
+### The claim, correctly stated
+
+The evidence does not support "American manufacturers charge more in America than
+abroad." On stickers they charge notably **less** here than in Mexico or Germany, and
+that is explained by market structure rather than by generosity.
+
+What the evidence does support is stronger and more directly harmful to the U.S.
+consumer:
+
+> **Shielded from low-cost competition by an ownership-based import prohibition and a
+> 25% tariff wall, U.S. manufacturers are charging American consumers more than a
+> competitive American market would permit — extracting it through withdrawn discounts,
+> upmarket mix, and the abandonment of the affordable segment rather than through higher
+> list prices. Demand fell 28%, incentives fell 24%, transaction prices hit a 2026 high,
+> and North American margins expanded 2.5 points in the same twelve months.**
+
+The right comparison is not America against Mexico. It is **America against the America
+that would exist if a $22,000 electric car were legal to sell here** — and the 1981 VER
+gives a measured precedent for what that difference costs: an upmarket mix shift that
+leaves buyers of premium vehicles roughly indifferent and buyers of basic vehicles with
+nothing to buy.
+
+---
+
+## 1.6 The two policies interact — and the interaction is the point
 
 Taken separately, each policy has a defensible industrial logic. Taken together, they
 produce a specific and probably unintended consumer outcome:
@@ -528,9 +723,14 @@ and already in Berlin — is not merely expensive in the U.S. It is illegal to s
 **The domestic industry got the protection. The American consumer paid for it in both
 directions at once.**
 
+And per §1.5, the protection is being converted into margin rather than into cheaper
+cars: through 2026 EV demand fell 28% while EV incentives fell 24%, transaction prices
+reached a 2026 high, and GM's North American margin expanded 2.5 points. The savings
+from excluding a low-cost competitor did not reach the showroom floor.
+
 ---
 
-## 1.6 Political outlook and watch items (2026–2030)
+## 1.7 Political outlook and watch items (2026–2030)
 
 | Watch item | Timing | Why it matters to price and reach |
 |---|---|---|
@@ -545,6 +745,24 @@ directions at once.**
 ---
 
 ## Sources
+
+Manufacturer pricing power and the protection precedent (§1.5)
+- [2026 Ford Mustang Mach-E — Ford.com](https://www.ford.com/suvs/mach-e/)
+- [Mustang Mach-E 2026: Versiones y Precios — Ford México](https://www.ford.mx/suv/mach-e/2026/versiones-precios/)
+- [Ford Mustang Mach-E (2026): alle Infos, Preise und Tests — AUTO BILD](https://www.autobild.de/marken-modelle/ford/mustang-mach-e/)
+- [Chevrolet Equinox EV 2026: Precio en México — AutosNuevos](https://www.autosnuevos.mx/marca/chevrolet/modelo/equinox-ev-2026)
+- [New-vehicle average transaction price hits 2026 high of $49,855 as EV incentives shrink 24 percent](https://gcn.com/new-vehicle-average-transaction-price-hits/20747)
+- [New-Car Prices Are Going Up, But Your Discount Is Going Down — Carscoops](https://www.carscoops.com/2026/08/new-car-prices-discounts/)
+- [Average New Car Price in July Hits 2026 High — Kelley Blue Book](https://www.kbb.com/car-news/average-new-car-price-in-july-hits-2026-high/)
+- [GM beats on earnings, raises guidance amid 'resilient' consumer, pricing — CNBC](https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html)
+- [General Motors boosts 2026 outlook as North America margins surge](https://finance.yahoo.com/markets/stocks/articles/general-motors-boosts-2026-outlook-133700030.html)
+- [Ford scraps EV plans, shifts to hybrids, EREVs and low-cost models — WardsAuto](https://www.wardsauto.com/news/ford-scraps-ev-plans-focusing-hybrids-erevs-new-trucks-battery-storage/808026/)
+- [Did GM Just Shelve Its Next-Gen Affordable EV? — GM Authority](https://gmauthority.com/blog/2026/04/did-gm-just-shelve-its-next-gen-affordable-ev/)
+- [Automakers' 2026 EV Cancellations and Delays: A Running List](https://evxl.co/2026/03/13/automakers-2026-ev-cancellations-delays-tracker/)
+- [Average New Vehicle Prices in Canada Soar Past $63,000 — Motor Illustrated](https://motorillustrated.com/average-new-vehicle-prices-in-canada-soar-past-63000/172169/)
+- [Voluntary Export Restraint in U.S. Autos, 1980–81 — NBER](https://www.nber.org/system/files/chapters/c5830/c5830.pdf)
+- [Automobile prices and protection: The U.S.–Japan trade restraint — Feenstra, ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0161893885900286)
+- [Voluntary Export Restraints on Automobiles — PERC](https://www.perc.org/1999/09/01/voluntary-export-restraints-on-automobiles/)
 
 Comparative pricing and adoption (§1.3)
 - [2026 Tesla Model Y Prices, Reviews, and Pictures — Edmunds](https://www.edmunds.com/tesla/model-y/)
