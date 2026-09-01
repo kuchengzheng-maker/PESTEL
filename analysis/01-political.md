@@ -913,31 +913,45 @@ converge across all five markets — the U.S. included.
 
 ---
 
-### A.3 Full matrix by segment
+### A.3 Full matrix by size class
 
-#### Segment A — city car (≈3.7–4.0 m)
+Five size classes, each with the trim ladder where one is published. All figures USD,
+ex-consumption-tax.
+
+#### Class A — city car (≈3.6–4.0 m)
 
 | Market | Model | Trim ladder (list) | ≈ USD ex-tax |
 |---|---|---|---|
-| **China** | BYD Seagull | ¥69,900 / ¥78,900 / ¥78,900 / ¥85,900; with LiDAR ¥90,900 / ¥97,900 | **$9,205 – $12,893** |
-| **Mexico** | BYD Dolphin Mini | MXN 399,800 (300 km) / 415,800 (380 km) | $19,583 – $20,366 |
-| **Europe (DE)** | BYD Dolphin Surf | €19,990 Active / €22,990 / €24,990 Comfort | $19,533 – $24,419 |
+| **China** | Wuling Bingo | from ¥56,800 | **$7,480** |
+| **China** | Geely Xingyuan | ¥68,800 list / ¥65,800 promo, six configs | $8,665 – $9,060 |
+| **China** | Wuling Binguo S | ¥66,800 – ¥79,800, four trims | $8,797 – $10,509 |
+| **China** | BYD Seagull | ¥69,900 / 78,900 / 78,900 / 85,900; LiDAR ¥90,900 / 97,900 | $9,205 – $12,893 |
+| **Europe (DE)** | Dacia Spring | €16,900 | **$16,514** |
+| **Europe (DE)** | Leapmotor T03 | €18,900 | $18,468 |
+| **Europe (DE)** | Citroën ë-C3 | €19,990 You / €23,300 | $19,533 – $22,767 |
+| **Europe (DE)** | BYD Dolphin Surf | €19,990 Active / 22,990 / 24,990 Comfort | $19,533 – $24,419 |
 | **Canada** | BYD Seagull | C$25,000 (entry, confirmed) | $18,051 |
-| **United States** | — | **no product in segment** | **—** |
+| **Mexico** | BYD Dolphin Mini | MXN 399,800 (300 km) / 415,800 (380 km) | $19,583 – $20,366 |
+| **United States** | — | **no product in class** | **—** |
 
-#### Segment B — small hatchback (≈4.1–4.3 m)
+Four markets have a class-A electric car. Europe has at least four competing models
+under $20,000 ex-VAT. The United States has none at any price.
+
+#### Class B — supermini / small hatch (≈4.0–4.3 m)
 
 | Market | Model | Trim ladder (list) | ≈ USD ex-tax |
 |---|---|---|---|
+| **China** | BYD Dolphin | ¥99,800 – ¥125,800 | **$13,143 – $16,566** |
 | **Europe (DE)** | BYD Dolphin | €25,920 | $25,328 |
+| **Europe (DE)** | Renault 5 E-Tech | €27,900 | $27,262 |
 | **United States** | 2027 Chevrolet Bolt | $28,995 LT (incl. destination) | **$28,995** |
 | **United States** | 2026 Nissan Leaf | $31,485 S+ (incl. destination) | $31,485 |
-| **China** | BYD Dolphin | *not sourced for 2026* | — |
 
-This is where the American ladder actually begins. The Bolt is the cheapest new EV in the
-United States and sits in the segment *above* every other market's entry point.
+The same BYD Dolphin: **$13,143 in China, $25,328 in Germany — 1.93×.** The American
+ladder begins here, in the class *above* every other market's entry point, and at a price
+above every class-B car listed.
 
-#### Segment C — compact SUV (≈4.4–4.6 m)
+#### Class C — compact SUV (≈4.4–4.6 m)
 
 | Market | Model | Trim ladder (list) | ≈ USD ex-tax |
 |---|---|---|---|
@@ -945,42 +959,55 @@ United States and sits in the segment *above* every other market's entry point.
 | **Europe (DE)** | BYD Atto 3 | €37,041 promo / €38,990 list | $36,194 – $38,099 |
 | **United States** | Chevrolet Equinox EV | $36,495 LT1 / $43,295 LT2 / $45,595 RS | $36,495 – $45,595 |
 | **Mexico** | Chevrolet Equinox EV | MXN 900,000 — **RS only** | ≈$44,083 |
-| **Canada** | BYD Atto 3 | within the confirmed C$25,000–44,990 band | ≈$18,051 – $32,484 |
+| **Canada** | BYD Atto 3 | within confirmed C$25,000–44,990 band | ≈$18,051 – $32,484 |
 
-The sharpest row in the appendix: **the same Atto 3 is $15,790 in China and $36,194 in
-Germany — 2.3×.** European buyers pay European prices for Chinese cars. The "flood of
-cheap Chinese EVs" arrives at the border and stops being cheap.
+The widest single-model gap in the appendix: **the same Atto 3 is $15,790 in China and
+$36,194 in Germany — 2.3×.** Mexico is offered only the top RS trim of the Equinox EV,
+so on entry price in this class the American buyer is better served than the Mexican one.
 
-Note also that Mexico is offered **only the top RS trim** of the Equinox EV. On entry
-price in this segment, the American buyer is better served than the Mexican one.
-
-#### Segment D — mid-size sedan and SUV
+#### Class D — mid-size SUV and sedan (≈4.6–4.9 m)
 
 | Market | Model | Trim ladder (list) | ≈ USD ex-tax |
 |---|---|---|---|
+| **China** | BYD Sealion 7 | ¥189,900 / ¥199,800 Long Range | **$25,008 – $26,312** |
 | **China** | Tesla Model 3 | ¥245,900 RWD | $32,383 |
-| **China** | Tesla Model Y | ¥263,500 / ¥288,500 / ¥313,500; Model Y L ¥339,000 | $34,700 – $44,643 |
-| **China** | BYD Seal 08 | from ¥196,900 | $25,930 |
-| **United States** | Tesla Model 3 | $36,990 / $42,490 Premium RWD / $47,490 Premium AWD / $54,990 Performance (+$1,640) | $36,990 – $54,990 |
-| **United States** | Tesla Model Y | $39,990 / $41,990 / $44,990 / $48,990 / $57,490; Model Y L $61,990 | $39,990 – $61,990 |
+| **China** | Tesla Model Y | ¥263,500 / 288,500 / 313,500; Model Y L ¥339,000 | $34,700 – $44,643 |
 | **Canada** | Tesla Model Y | C$49,990 Standard | $36,094 |
-| **Germany** | Tesla Model Y | €39,990 Standard | $39,076 |
-| **Germany** | BYD Seal | €44,990 | $43,962 |
+| **United States** | Ford Mustang Mach-E | $37,795 Select → $53,395 GT | $37,795 – $53,395 |
+| **Europe (DE)** | Tesla Model Y | €39,990 Standard | $39,076 |
 | **Mexico** | Tesla Model Y | MXN 799,000 – 1,129,000 | $39,136 – $55,300 |
-| **Mexico** | Tesla Model 3 | MXN 1,029,900 | $50,446 |
-| **Canada** | BYD Seal | C$44,990 (top of confirmed band) | $32,484 |
+| **United States** | Tesla Model Y | $39,990 / 41,990 / 44,990 / 48,990 / 57,490; Model Y L $61,990 | $39,990 – $61,990 |
+| **United States** | Tesla Model 3 | $36,990 / 42,490 / 47,490 / 54,990 (+$1,640) | $36,990 – $54,990 |
+| **United States** | Hyundai Ioniq 5 | $41,400 SEL RWD | $41,400 |
+| **Europe (DE)** | BYD Seal | €44,990 | $43,962 |
+| **United States** | Volkswagen ID.4 | $45,095 (+$1,475 destination) | $46,570 |
+| **Europe (DE)** | Volkswagen ID.4 | €50,000 – €59,000 | $48,857 – $57,651 |
+| **Mexico** | Ford Mustang Mach-E | MXN 996,500 / 1,250,500 / 1,350,500 GT / 1,395,500 Rally | $56,619 – $79,290 |
+| **Europe (DE)** | Ford Mustang Mach-E | €55,800 / 57,900 AWD / 77,300 GT | $54,524 – $75,532 |
 
-#### Premium / performance
+This is the class where the U.S. is genuinely competitive. A Mach-E is cheaper in Detroit
+than anywhere else on the list; an ID.4 is cheaper in the U.S. than in Germany, where it
+is designed. The Model Y sits within 15% across all five markets.
+
+#### Class E — full-size / three-row SUV (≈5.0–5.6 m)
 
 | Market | Model | Trim ladder (list) | ≈ USD ex-tax |
 |---|---|---|---|
-| **United States** | Ford Mustang Mach-E | $37,795 Select → $53,395 GT | $37,795 – $53,395 |
-| **Germany** | Ford Mustang Mach-E | €55,800 → €57,900 AWD → €77,300 GT | $54,524 – $75,532 |
-| **Mexico** | Ford Mustang Mach-E | MXN 996,500 Select / 1,250,500 Premium / 1,350,500 GT / 1,395,500 Rally | $56,619 – $79,290 |
+| **China** | BYD Da Tang EV | from ¥239,900, up to 950 km range | **$31,592** |
+| **Canada** | Kia EV9 | C$59,995 Light RWD → 74,995 Land Premium → 85,295 GT | **$43,318 – $61,585** |
+| **China** | Denza N9 (BYD premium) | ¥389,800 / 409,800 / 449,800 | $51,333 – $59,234 |
+| **United States** | Kia EV9 | from $54,900 Light RWD | $54,900 |
+| **Europe (DE)** | Kia EV9 | from €61,990 | $60,572 |
+| **United States** | Hyundai Ioniq 9 | from $60,605 | $60,605 |
 | **Mexico** | BYD Tang EV | MXN 1,399,000 | $68,525 |
-| **United States** | Tesla Model Y L | $61,990 | $61,990 |
+| **United States** | Rivian R1S | $76,990 Dual → $125,990 Quad | $76,990 – $125,990 |
+| **United States** | Volvo EX90 | $77,990 – $90,640 | $77,990 – $90,640 |
+| **United States** | Cadillac Escalade IQ | from $127,405 | $127,405 |
 
----
+Here the ordering inverts. **The Kia EV9 is roughly 21% cheaper in Canada than in the
+United States** on base trim — the opposite of the Mach-E result. And the U.S. is the only
+market in this comparison with a populated ladder above $75,000: Rivian, Volvo and
+Cadillac have no counterpart in the Canadian or Mexican listings gathered here.
 
 ### A.4 What the matrix shows about market *position*
 
@@ -998,22 +1025,55 @@ Two brand strategies, mirrored. **Chinese brands are value at home and mid-marke
 American brands are mainstream at home and premium abroad.** Neither is exporting its
 domestic price position, and neither is being priced by cost alone.
 
-### A.5 Trim-ladder shape: where each market has depth
+### A.5 Ladder shape: where each market has depth
 
-| Market | Bottom of ladder | Top of ladder | Ladder shape |
+Bottom and top of each market's full electric ladder across all five size classes.
+
+| Market | Bottom of ladder | Top of ladder | Span | Shape |
+|---|---|---|---|---|
+| **China** | **$7,480** (Wuling Bingo) | $59,234 (Denza N9) | 7.9× | Dense at the bottom, thin above $60k |
+| **Europe (DE)** | **$16,514** (Dacia Spring) | $75,532 (Mach-E GT) | 4.6× | Continuous across the entire range |
+| **Canada** | **$18,051** (BYD Seagull) | $61,585 (Kia EV9 GT) | 3.4× | Low entry, moderate ceiling |
+| **Mexico** | **$19,583** (Dolphin Mini) | $79,290 (Mach-E Rally) | 4.0× | Low entry, imports priced as premium |
+| **United States** | **$28,995** (Bolt) | **$127,405** (Escalade IQ) | **4.4×** | **Nothing below $29k; deepest ceiling by far** |
+
+Two facts sit side by side. The United States has the **highest floor** of the five
+markets and the **highest ceiling by a wide margin** — the Escalade IQ alone is $48,000
+above any other market's most expensive listed EV, and Rivian and Volvo occupy a
+$77,000–126,000 band with no Canadian or Mexican counterpart here.
+
+American manufacturers did not stop building variety after the affordable segment was
+protected out of existence. They kept building it — **upward.** That is the Feenstra
+upgrading result from §1.5 showing up directly in a product catalogue.
+
+### A.6 The gap has no consistent direction — and that matters
+
+The most important structural finding in this appendix is a negative one. There is **no
+uniform "American premium" or "American discount."** The direction flips by class and by
+brand:
+
+| Vehicle | Class | Cheaper in the U.S.? | Magnitude |
 |---|---|---|---|
-| **China** | $9,205 (Seagull) | $44,643 (Model Y L) | Deep at the bottom, thin at the top |
-| **Canada** | $18,051 (Seagull) | $36,094+ (Model Y) | Broad, low entry |
-| **Mexico** | $19,583 (Dolphin Mini) | $79,290 (Mach-E Rally) | Widest overall span; imports carry premium pricing |
-| **Europe (DE)** | $19,533 (Dolphin Surf) | $75,532 (Mach-E GT) | Continuous across the full range |
-| **United States** | **$28,995 (Bolt)** | **$61,990 (Model Y L)** | **Deep at the top, nothing below $29,000** |
+| Ford Mustang Mach-E | D | **Yes, sharply** | U.S. ~31% below Germany, ~33% below Mexico |
+| Volkswagen ID.4 | D | **Yes, mildly** | U.S. ~5% below Germany |
+| Tesla Model Y | D | Roughly level | U.S. highest of five, but by only 15% over China |
+| Chevrolet Equinox EV | C | Yes, on entry trim | Mexico is offered the RS only |
+| **Kia EV9** | **E** | **No** | **U.S. ~27% above Canada on base trim** |
+| BYD Seagull / Dolphin / Atto 3 | A / B / C | **Not applicable — not sold** | ∞ |
 
-The United States has the **most developed trim ladder above $40,000** in this comparison —
-the Model Y alone spans six trims from $39,990 to $61,990, and the Model 3 four more —
-and the **only ladder with no rung beneath $28,995.** American manufacturers did not stop
-building variety. They stopped building it downward.
+Read together, this is evidence *for* the section's central claim rather than against it.
+If U.S. policy were simply making all electric cars dearer in America, the direction would
+be consistent. It is not. Above class C the U.S. is competitive, sometimes the cheapest
+market on the list, and where it is dearer — the EV9 — the cause is ordinary
+market-by-market positioning, not the Chinese-EV prohibition.
 
-### A.6 Data gaps and cautions
+**The policy effect is not distributed across the price range. It is concentrated
+entirely at the bottom of it**, in classes A and B, where the American figure is not a
+higher number but a blank cell. Everything above class C is a normal, competitively
+priced market. That is the same distribution-not-level conclusion reached independently in
+§1.3, Comparison 7, arriving here from product catalogues rather than from income data.
+
+### A.7 Data gaps and cautions
 
 Stated plainly so the table is not over-read:
 
@@ -1027,7 +1087,10 @@ Stated plainly so the table is not over-read:
 - **IVA treatment differs by brand in Mexico.** Ford México states its listings exclude
   IVA; BYD and Chevrolet listings are treated as IVA-inclusive. If that assumption is wrong
   for Chevrolet, the Equinox EV Mexico figure rises to ≈$51,100.
-- **Segment labels are approximate.** Cross-market segment definitions differ, and trim
+- **The Kia EV9 U.S./Canada comparison is base-trim to base-trim** ($54,900 Light RWD vs.
+  C$59,995 Light RWD). Korean-brand base trims frequently differ in standard content
+  between the two markets, so part of that 27% gap may be equipment rather than price.
+- **Class labels are approximate.** Cross-market segment definitions differ, and trim
   content is not equalized — a €19,990 Dolphin Surf Active is a 30 kWh, 220 km car, while
   a $28,995 Bolt is a 65 kWh, 262-mile car. **These are price-point comparisons, not
   value-for-money comparisons.**
@@ -1050,6 +1113,21 @@ Stated plainly so the table is not over-read:
 - [Mustang Mach-E 2026: Versiones y Precios — Ford México](https://www.ford.mx/suv/mach-e/2026/versiones-precios/)
 - [BYD en México 2026: Guía de Precios y Modelos](https://bydtoday.com/es-mx/byd-mexico-2026-precios-modelos-costo-carga-cfe/)
 - [Chinese Yuan exchange rate — Trading Economics](https://tradingeconomics.com/china/currency)
+- [New BYD Dolphin hatchback launched in China for 13,375 USD — CarNewsChina](https://carnewschina.com/2025/03/05/new-byd-dolphin-launched-in-china-cars-arrived-at-dealers/)
+- [Geely's 2026 Geome Xingyuan compact hatch launches from 9,252 USD — CarNewsChina](https://carnewschina.com/2025/10/10/geelys-2026-geome-xingyuan-compact-hatch-launches-from-9252-usd-in-china/)
+- [Wuling Binguo S launched in China, starts at 9,400 USD — CarNewsChina](https://carnewschina.com/2025/09/27/wuling-binguo-s-launched-in-china-with-430-km-range-starts-at-9400-usd/)
+- [BYD launches Da Tang EV, longest-range full-size electric SUV — CnEVPost](https://cnevpost.com/2026/06/17/byd-launches-da-tang-ev/)
+- [Denza launches updated N9 SUV with unchanged starting price — CnEVPost](https://cnevpost.com/2025/09/17/denza-launches-updated-n9/)
+- [BYD's Sealion 07 DM-i launched in China from 23,500 USD — CarNewsChina](https://carnewschina.com/2025/05/08/byds-sealion-07-dm-i-launched-in-china-from-23500-usd-targets-global-markets/)
+- [Top 7 cheapest electric cars in 2026 — Electra](https://www.go-electra.com/en/newsroom/top-7-cheapest-ev/)
+- [Electric city cars: our top 5 picks for 2026 — Electra](https://www.go-electra.com/en/newsroom/electric-city-cars-our-top-5-picks-for-2026/)
+- [2026 Kia EV9 Prices — Edmunds](https://www.edmunds.com/kia/ev9/)
+- [2026 Kia EV9 GT lands in Canada starting at $85,295 — Motor Illustrated](https://motorillustrated.com/all-new-2026-kia-ev9-gt-lands-in-canada-starting-at-85295-with-up-to-418-km-range/157790/)
+- [Kia EV9 (2026): alle Infos, Preise und Tests — AUTO BILD](https://www.autobild.de/marken-modelle/kia/ev9/)
+- [2026 Rivian R1S Review, Pricing — U.S. News](https://cars.usnews.com/cars-trucks/rivian/r1s)
+- [2026 Volvo EX90 Prices — Edmunds](https://www.edmunds.com/volvo/ex90/2026/)
+- [2026 Volkswagen ID.4 Price and MSRP — iSeeCars](https://www.iseecars.com/car/volkswagen-id-4-price)
+- [2026 Kia EV9 Specifications — Kia Canada](https://www.kia.ca/en/vehicles/ev9/specs)
 
 
 ---
