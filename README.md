@@ -10,7 +10,7 @@ built to a specific brief for each of the six dimensions.
 
 | # | Factor | Brief | Status |
 |---|--------|-------|--------|
-| 1 | [Political](analysis/01-political.md) | Effect of the Chinese-EV market ban and the expiry of the federal EV tax credit on EV pricing and consumer reach; cross-market price comparison vs. Mexico, Canada, Europe, plus six supporting comparison axes and a test of whether US manufacturers price higher domestically | Complete |
+| 1 | [Political](analysis/01-political.md) | Effect of the Chinese-EV market ban and the expiry of the federal EV tax credit on EV pricing and consumer reach; cross-market price comparison vs. Mexico, Canada, Europe, plus seven supporting comparison axes and a test of whether US manufacturers price higher domestically | Complete |
 | 2 | Economic | *awaiting brief* | Pending |
 | 3 | Social | *awaiting brief* | Pending |
 | 4 | Technological | *awaiting brief* | Pending |

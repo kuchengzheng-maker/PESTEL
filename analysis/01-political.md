@@ -23,6 +23,14 @@ collapsed to **5.8% in Q4 2025**, and was still at roughly **5.8–6%** through 
 half of 2026. Meanwhile the cheapest new EV an American can buy costs about **$29,000**,
 against roughly **$18,000 in Canada**, **$22,700 in Mexico**, and **$23,200 in Europe**.
 
+One qualification belongs up front, because it changes how the price gap should be
+described. Adjusted for local incomes and local vehicle price levels (§1.3, Comparison 7),
+the American EV market is **not** unusually expensive — proportionally it sits level with
+Germany and well below Mexico. The U.S. anomaly is not the price *level*; it is the
+price *floor*. The American EV average is high because the cheap models were removed
+from the market, not because any individual car is overpriced. That is a claim about
+**distribution, not level** — and it is the more defensible one.
+
 Two control comparisons pin the cause down. First, an identical non-Chinese vehicle —
 the Tesla Model Y Standard — costs within about 10% of the same amount in all four
 markets on a tax-adjusted basis, which rules out currency, cost, tax, and regulatory
@@ -192,6 +200,13 @@ entry price for an electric car sits roughly **$6,000–11,000 above** that of e
 comparable market — and unlike a tariff, that gap cannot be competed away, because the
 competitor is legally barred rather than merely taxed.
 
+State that carefully, though. Comparison 7 in §1.3 shows this nominal gap narrows to
+roughly 13% against Canada, and to nothing against Germany, once local incomes and
+vehicle price levels are taken into account. The durable finding is therefore not that
+Americans pay more per car — proportionally they do not — but that **the American market
+has no entry rung at all**, which is a fact about what is available rather than about
+what things cost.
+
 The reach effect follows arithmetically. An $18,000–23,000 EV is a plausible second
 household car, a first car for a young buyer, and a viable purchase for the ~40% of U.S.
 households whose new-vehicle budget tops out near $30,000. A $29,000-and-up EV market is
@@ -199,11 +214,13 @@ a market for people who were probably buying a new car anyway.
 
 ---
 
-## 1.3 Six further comparisons
+## 1.3 Seven further comparisons
 
 The A-segment comparison in §1.2 is the headline, but it rests on a single non-identical
-vehicle class. The following six comparisons attack the same question from independent
-angles — three cross-border, three internal to the U.S. market. They converge.
+vehicle class. The following seven comparisons attack the same question from independent
+angles — three cross-border, three internal to the U.S. market, and a seventh that tests
+the whole set against income and local price levels. Six converge; the seventh materially
+qualifies them, and is reported in full for that reason.
 
 ---
 
@@ -367,7 +384,90 @@ prevents the new market from having.
 
 ---
 
-### What the six comparisons establish together
+### Comparison 7 — The affordability test: normalizing for income and local price levels
+
+The comparisons above are nominal. That is a real vulnerability, and it deserves to be
+tested rather than left for a reader to raise: a $29,000 car in a rich country may be a
+lighter burden than a $22,700 car in a poorer one. If the U.S. entry EV is proportionally
+affordable, the "price floor" argument weakens considerably.
+
+Two normalizations, neither of which flatters the argument as originally stated.
+
+**Normalization A — entry EV as a share of that market's own average new-vehicle price.**
+This uses only figures already established here and requires no income data at all.
+
+| Market | Entry EV | Market average new vehicle | Entry EV as % of average |
+|---|---|---|---|
+| **Canada** | C$25,000 | C$63,264 | **40%** |
+| **Germany** | €22,990 | ≈€42,100 | **55%** |
+| **United States** | $28,995 | $49,855 | **58%** |
+| **Mexico** | MXN 399,800 | ≈MXN 550,000–583,000 | **69–73%** |
+
+**Normalization B — entry EV against household disposable income per capita**
+(OECD, gross, USD PPP; U.S. figure is 2023, others 2024).
+
+| Market | Entry EV (≈USD) | Disposable income per capita | Ratio |
+|---|---|---|---|
+| **Canada** | $18,050 | $47,737 | **0.38×** |
+| **Germany** | $22,500 | $59,001 | **0.38×** |
+| **United States** | $28,995 | $67,468 | **0.43×** |
+| **Mexico** | $22,700 | OECD-bottom; no reliable comparable figure | **well above 1×** |
+
+#### What this does to the argument
+
+**It cuts the headline gap by roughly two-thirds.** In nominal dollars the U.S. entry EV
+is about **60% above Canada's**. Income-adjusted, the gap is roughly **13%**, and the U.S.
+is essentially **level with Germany**. The claim that Americans face a uniquely severe EV
+affordability burden does not survive this adjustment, and should not be made.
+
+A methodological caveat that cuts both ways: Normalization B compares PPP-adjusted incomes
+against nominal prices, which is not strictly consistent, and the underlying income series
+use different definitions and years. Treat it as directional, not precise.
+
+#### What survives the adjustment — and it is most of the argument
+
+1. **Canada still beats the United States on both normalizations** — 40% vs 58%, and
+   0.38× vs 0.43×. Two neighbouring economies with comparable incomes, comparable
+   regulation, and comparable consumer preferences, differing principally in their
+   posture toward Chinese EVs. Normalization does not touch this comparison; it is the
+   cleanest evidence in the section.
+
+2. **Segment absence is not a ratio question.** Normalization tells you whether the
+   *median* household finds the entry EV proportionally affordable. It says nothing about
+   the households whose new-car budget is $20,000–25,000 in nominal dollars — those
+   households face an empty shelf regardless of what the U.S. median earns. A ratio
+   describes the middle of a distribution; the policy removed the bottom of it.
+
+3. **The domestic comparisons are entirely unaffected.** The $6,500 gap between an
+   Equinox EV and a gasoline Equinox, and the $7,500 the credit's expiry added to every
+   affordable EV, involve no currency conversion, no income normalization, and no foreign
+   market. They are the same for every American buyer.
+
+4. **The §1.5 findings are unaffected.** A 28% demand collapse alongside a 24% cut in EV
+   incentives, a 2026-high transaction price, and a 2.5-point margin expansion are
+   domestic facts about competitive pressure. No international normalization bears on them.
+
+#### The corrected formulation
+
+The right claim after this test is **not** "electric cars are unaffordable in America
+relative to peer markets." Proportionally, they are about as affordable as in Germany and
+considerably more so than in Mexico.
+
+The right claim is narrower and holds firmly:
+
+> **The United States has a normal EV price *level* and an abnormal EV price *floor*.**
+> Relative to local incomes and local vehicle prices, the American EV market is
+> unremarkable in the middle and at the top. What distinguishes it is the complete
+> absence of a bottom — no product below $28,995 — in the one market of the four with
+> the incomes and the charging density to convert cheap supply into mass adoption
+> most efficiently.
+
+That is a claim about **distribution, not level** — and it is the claim the evidence
+in this section actually supports.
+
+---
+
+### What the seven comparisons establish together
 
 | Comparison | What it rules out or establishes |
 |---|---|
@@ -377,10 +477,13 @@ prevents the new market from having.
 | 4. Before/after credit | Isolates a clean +$7,500 consumer cost increase, unrelated to the product |
 | 5. EV vs. gas twin | Shows the credit had achieved sticker parity, and its removal reopened a $6,000+ gap |
 | 6. EV vs. market | Shows the segment sits $6,000–7,300 above market average, with demand displaced into used vehicles |
+| **7. Income/price-level normalization** | **Qualifies the set: the U.S. price *level* is unremarkable once adjusted — the anomaly is the absent floor, not the average** |
 
-No single comparison carries the argument. Together they make it difficult to attribute
+No single comparison carries the argument. Comparisons 1–6 make it difficult to attribute
 the American EV affordability gap to anything other than the two political decisions
-examined in this section.
+examined in this section. Comparison 7 then narrows what that gap *is*: not a uniformly
+higher price level, but a missing bottom to the market — a claim about distribution rather
+than about level, and a considerably harder one to rebut.
 
 ---
 
@@ -763,6 +866,13 @@ Manufacturer pricing power and the protection precedent (§1.5)
 - [Voluntary Export Restraint in U.S. Autos, 1980–81 — NBER](https://www.nber.org/system/files/chapters/c5830/c5830.pdf)
 - [Automobile prices and protection: The U.S.–Japan trade restraint — Feenstra, ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0161893885900286)
 - [Voluntary Export Restraints on Automobiles — PERC](https://www.perc.org/1999/09/01/voluntary-export-restraints-on-automobiles/)
+
+Affordability normalization (§1.3, Comparison 7)
+- [Household disposable income — OECD](https://www.oecd.org/en/data/indicators/household-disposable-income.html)
+- [Disposable household and per capita income — OECD-sourced comparison](https://en.wikipedia.org/wiki/Disposable_household_and_per_capita_income)
+- [Household income: Society at a Glance 2024 — OECD](https://www.oecd.org/en/publications/society-at-a-glance-2024_918d8db3-en/full-report/household-income_3ee61044.html)
+- [Un auto nuevo en México ya cuesta en promedio más de medio millón de pesos — Motorpasión México](https://www.motorpasion.com.mx/industria/auto-nuevo-mexico-cuesta-promedio-medio-millon-pesos-pagarlo-toma-anos)
+- [Income Statistics in Canada — Made in CA](https://madeinca.ca/income-statistics-canada/)
 
 Comparative pricing and adoption (§1.3)
 - [2026 Tesla Model Y Prices, Reviews, and Pictures — Edmunds](https://www.edmunds.com/tesla/model-y/)
