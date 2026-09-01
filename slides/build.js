@@ -316,7 +316,67 @@ s.addText([
 src(s, "Manufacturer list prices Sept 2026, ex-consumption-tax. EV9 comparison is base trim to base trim; standard content may differ between markets.");
 s.addNotes("This is the slide that makes the argument falsifiable — and it survives.");
 
-// ===== 12. FORWARD ======================================================
+// ===== 12. THE BARBELL (body type) ======================================
+s = p.addSlide();
+head(s, "BY BODY TYPE", "The American EV market is barbell-shaped",
+  "Cheapest electric option in the U.S., by body type. Two categories have no product at all — for two different reasons.");
+s.addChart(p.ChartType.bar, [{
+  name:"Cheapest U.S. electric option",
+  labels:["Supermini","Compact SUV","Mid-size SUV","Pickup","Full-size SUV"],
+  values:[28995, 36495, 39990, 52800, 54900],
+}], Object.assign(axis(), {
+  x:M, y:2.34, w:7.5, h:3.9, barDir:"col",
+  chartColors:[BLUE, BLUE, BLUE, OCHRE, OCHRE],
+  showLegend:false, showTitle:false, dataLabelFormatCode:'$#,##0', barGapWidthPct:50,
+}));
+const gaps = [
+  ["City car","No product at any price","Supply-side: the Chinese-EV prohibition. Europe has four rivals under $20,000."],
+  ["Minivan / MPV","None on sale for model year 2026","Demand-side: VW withdrew the ID.Buzz after the credit expired. China's 7-seat BYD Xia is $27,233."],
+];
+gaps.forEach((g,i)=>{
+  const y = 2.34 + i*2.02;
+  card(s, 8.42, y, 4.26, 1.86, "FBEDEB");
+  s.addText(g[0], { x:8.70, y:y+0.16, w:3.7, h:0.34, isTextBox:true, margin:0,
+    fontFace:SERIF, fontSize:18, bold:true, color:OXIDE });
+  s.addText(g[1], { x:8.70, y:y+0.55, w:3.7, h:0.34, isTextBox:true, margin:0,
+    fontFace:SANS, fontSize:12, bold:true, color:INK });
+  s.addText(g[2], { x:8.70, y:y+0.92, w:3.7, h:0.82, isTextBox:true, margin:0,
+    fontFace:SANS, fontSize:11, color:MUT });
+});
+s.addText("Each policy produced a missing segment by a different mechanism — the clearest sign they are two separate forces pushing the same way, not one story told twice.",
+  { x:M, y:6.36, w:W-2*M, h:0.5, isTextBox:true, margin:0, fontFace:SANS, fontSize:12.5, italic:true, color:INK });
+src(s, "Edmunds · iSeeCars · Cars.com · CnEVPost · manufacturer listings, Sept 2026");
+s.addNotes("Strong and innovative above $50,000, absent below $29,000. Neither policy set out to build a barbell; both did.");
+
+// ===== 13. POWERTRAIN LADDER ============================================
+s = p.addSlide();
+head(s, "BY POWERTRAIN", "The subsidy was removed from one powertrain and not the other",
+  "What an American pays to move off gasoline, same nameplate, same dealer.");
+s.addChart(p.ChartType.bar, [{
+  name:"Premium over the gasoline version",
+  labels:["Battery-electric\nwith the credit\n(to Sept 2025)","Hybrid\n(never subsidised)","Battery-electric\ntoday"],
+  values:[-1000, 4710, 6500],
+}], Object.assign(axis(), {
+  x:M, y:2.34, w:7.5, h:3.9, barDir:"col",
+  chartColors:[TEAL, BLUE, OXIDE], showLegend:false, showTitle:false,
+  dataLabelFormatCode:'+$#,##0;-$#,##0', barGapWidthPct:58,
+}));
+card(s, 8.42, 2.34, 4.26, 1.72, DARK);
+s.addText("Toyota no longer sells a gasoline RAV4 or Camry.", { x:8.70, y:2.54, w:3.7, h:0.72,
+  isTextBox:true, margin:0, fontFace:SERIF, fontSize:17, bold:true, color:WHITE });
+s.addText("For 2026 every one is a hybrid. America's default powertrain has already left pure gasoline.",
+  { x:8.70, y:3.26, w:3.7, h:0.62, isTextBox:true, margin:0, fontFace:SANS, fontSize:11.5, color:PALE });
+card(s, 8.42, 4.22, 4.26, 2.02);
+s.addText("It just moved to hybrid, not electric", { x:8.70, y:4.38, w:3.7, h:0.44,
+  isTextBox:true, margin:0, fontFace:SERIF, fontSize:16, bold:true, color:INK });
+s.addText("A hybrid costs ~$4,700 over gasoline and never needed a subsidy. A BEV costs ~$6,500 and lost the $7,500 that closed the gap.\n\nMexico shows the destination: 69% of its electrified sales are hybrids, against 14.5% battery-electric.",
+  { x:8.70, y:4.84, w:3.72, h:1.28, isTextBox:true, margin:0, fontFace:SANS, fontSize:10.5, color:INK });
+s.addText("Chevrolet Equinox gasoline $29,995 vs Equinox EV $36,495 · Honda CR-V $32,370 vs CR-V Hybrid $37,080 · Toyota RAV4 hybrid $33,350, PHEV $42,920",
+  { x:M, y:6.36, w:W-2*M, h:0.5, isTextBox:true, margin:0, fontFace:SANS, fontSize:11, color:MUT });
+src(s, "Edmunds · TrueCar · Motor1 · Cars.com · AMIA Mexico, Sept 2026");
+s.addNotes("Remove support from one powertrain and leave the other untouched, and the hybrid takes the middle of the market by default.");
+
+// ===== 14. FORWARD ======================================================
 s = p.addSlide();
 head(s, "OUTLOOK", "What to expect through 2030",
   "Two changes since the analysis was drafted matter more than anything on a watch list.");
@@ -340,7 +400,7 @@ s.addText("The underweighted change: the EPA repealed the 2009 endangerment find
   { x:M, y:6.86, w:W-2*M, h:0.52, isTextBox:true, margin:0, fontFace:SANS, fontSize:12, italic:true, color:INK });
 s.addNotes("Probabilities are directional judgements, not model outputs. The near-certainties are near-certain because they are already law.");
 
-// ===== 13. CONCLUSION ===================================================
+// ===== 15. CONCLUSION ===================================================
 s = p.addSlide(); s.background = { color: DARK };
 s.addText("CONCLUSION", { x:M, y:0.72, w:11, h:0.3, isTextBox:true, margin:0,
   fontFace:SANS, fontSize:11, bold:true, charSpacing:2.5, color:OCHRE });

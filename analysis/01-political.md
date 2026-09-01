@@ -1132,6 +1132,131 @@ Stated plainly so the table is not over-read:
 
 ---
 
+## Appendix B — Comparison by body type and by powertrain
+
+Appendix A compared like-for-like *size* classes. This one asks a different question:
+which **kinds** of vehicle exist in each market at all, and what the American buyer pays
+to move up the powertrain ladder. Same method — USD, ex-consumption-tax, September 2026.
+
+---
+
+### B.1 Pickup trucks — a category America built at the top
+
+| Market | Model | Powertrain | List price | ≈ USD ex-tax |
+|---|---|---|---|---|
+| **Mexico** | BYD Shark 6 GL | PHEV | MXN 899,980 | **$44,082** |
+| **Mexico** | BYD Shark 6 GS | PHEV | MXN 969,800 | $47,502 |
+| **United States** | Chevrolet Silverado EV | BEV | $52,800 | **$52,800** |
+| **United States** | Rivian R1T | BEV | $69,900 | $69,900 |
+| **United States** | Tesla Cybertruck | BEV | $79,990 | $79,990 |
+| **United States** | *average electric truck* | BEV | **$68,027** | $68,027 |
+| **Europe (DE)** | — | — | **no meaningful segment** | — |
+| **China** | BYD Shark | PHEV | *domestic launch pending; expected below export price* | — |
+
+Two observations, and the second is the interesting one.
+
+First, **America's cheapest electric pickup costs $52,800; Mexico's cheapest electrified
+pickup is a $44,082 plug-in hybrid.** Ford killed the F-150 Lightning in December 2025;
+its $30,000 midsize replacement is a 2027 vehicle.
+
+Second — and this cuts *against* the reflex reading — **the electric pickup is a segment
+the United States has and almost nobody else does.** Europe has no meaningful electric
+pickup market at all. This is not a market being denied a product. It is a market that
+built an entire premium electric category, priced $52,800 to $127,405 once full-size SUVs
+are included, in the same years it stopped building anything under $28,995.
+
+That is the §1.5 upgrading argument in its cleanest form. American manufacturers were not
+idle. They allocated their electrification capital to the top of the market, where the
+margins are, because nothing was competing at the bottom.
+
+### B.2 Minivans and MPVs — a second blank cell, with a different cause
+
+| Market | Model | Powertrain | List price | ≈ USD ex-tax |
+|---|---|---|---|---|
+| **China** | BYD Xia MPV | PHEV, 7-seat | ¥206,800 – ¥269,800 | **$27,233 – $35,530** |
+| **China** | Denza D9 | BEV / PHEV | — | ≈$68,500 |
+| **Europe (DE)** | VW ID.Buzz Cargo | BEV | €48,368 | $47,262 |
+| **Europe (DE)** | VW ID.Buzz Pure | BEV | €52,271 | $51,076 |
+| **Europe (DE)** | VW ID.Buzz LWB / GTX | BEV | €62,903 / €73,239 | $61,465 / $71,564 |
+| **United States** | — | — | **none on sale for 2026** | — |
+
+**Volkswagen withdrew the ID.Buzz from the United States for model year 2026** after a
+single year, citing flatlined sales; it is expected back for 2027. It had listed at
+$61,545 with destination. So for the 2026 model year an American cannot buy a new electric
+minivan of any brand, while a Chinese buyer can have a seven-seat plug-in MPV for $27,233.
+
+**This blank cell has a different cause from the one in classes A and B, and the
+distinction matters.** No prohibition touches Volkswagen. The ID.Buzz left because demand
+collapsed after the credit expired and the price never worked without it. So:
+
+- **Classes A and B are empty because of the Chinese-EV prohibition** — a supply-side
+  exclusion.
+- **The MPV class is empty because of the tax-credit expiry** — a demand-side collapse.
+
+The two policies examined in this section each produced a missing segment, by different
+mechanisms. That is the clearest available demonstration that they are separate forces
+acting in a common direction, rather than one story told twice.
+
+### B.3 The powertrain ladder inside the American showroom
+
+What an American actually pays to move up from gasoline — same nameplate, same dealer:
+
+| Nameplate | Gasoline | Hybrid | Plug-in hybrid | Battery-electric | Step to electrified |
+|---|---|---|---|---|---|
+| **Chevrolet Equinox** | $29,995 | — | — | **$36,495** | **+$6,500 to BEV** |
+| **Honda CR-V** | $32,370 | **$37,080** | — | — | **+$4,710 to hybrid** |
+| **Toyota RAV4** | **discontinued** | $33,350 | $42,920 | — | **+$9,570 hybrid → PHEV** |
+| **Toyota Camry** | **discontinued** | $37,035 | — | — | hybrid is the only option |
+
+The headline is in the left column. **Toyota no longer sells a gasoline-only RAV4 or
+Camry** — for 2026 every one is a hybrid. The American market's default powertrain has
+already moved off pure gasoline. It has just moved to hybrid rather than to electric.
+
+The economics now point that way. A hybrid costs about **$4,700** over gasoline and never
+required a subsidy to make the arithmetic work. A BEV costs about **$6,500** over gasoline
+and, until 30 September 2025, had **$7,500** of federal support closing that gap. Remove
+the support from one and leave the other untouched, and the hybrid takes the middle of the
+market by default.
+
+Mexico shows where that ends: **69% of its electrified vehicle sales are conventional
+hybrids**, against 14.5% battery-electric. On present policy the United States is heading
+toward a similar composition — an electrified market that is substantially not an electric
+one.
+
+### B.4 What the body-type view adds
+
+| Vehicle type | U.S. position | What it shows |
+|---|---|---|
+| **City car (A)** | **Absent** | Supply-side exclusion — the prohibition |
+| **Supermini (B)** | Highest floor of the five markets | Same cause, one class up |
+| **Compact / mid SUV** | Competitive, sometimes cheapest | No policy effect visible |
+| **Pickup** | **Category leader, $52,800–$127,405** | Capital allocated upward |
+| **Full-size SUV** | Highest ceiling by ≈$48,000 | Capital allocated upward |
+| **Minivan / MPV** | **Absent** | Demand-side collapse — the credit expiry |
+| **Powertrain mix** | Hybrid becoming the default | The subsidy asymmetry decides it |
+
+Read down that column, the American EV market is not weak. It is **barbell-shaped**:
+strong and genuinely innovative above $50,000, absent below $29,000, with the middle
+drifting toward hybrids because that is where the arithmetic still works without a
+subsidy.
+
+Neither policy set out to produce a barbell. Both did.
+
+### Sources — Appendix B
+
+- [2026 Chevy Silverado EV Prices — Edmunds](https://www.edmunds.com/chevrolet/silverado-ev/)
+- [Most Affordable Electric Trucks for 2026 — iSeeCars](https://www.iseecars.com/affordable/affordable-electric-trucks)
+- [BYD launches Shark pickup in Mexico at 899,980 pesos — CnEVPost](https://cnevpost.com/2024/05/15/byd-launches-1st-pickup-truck-shark-mexico/)
+- [BYD Shark pickup to enter China cheaper than in overseas markets — CarNewsChina](https://carnewschina.com/2025/10/09/byd-shark-pickup-truck-to-enter-china-cheaper-than-in-overseas-markets/)
+- [Volkswagen ID.Buzz Skips U.S. Market for 2026 — Cars.com](https://www.cars.com/articles/volkswagen-id-buzz-skips-u-s-market-for-2026-519884/)
+- [VW ID.Buzz (2026): alle Infos, Preise und Tests — AUTO BILD](https://www.autobild.de/marken-modelle/vw/id-buzz/)
+- [BYD launches updated Xia MPV at significantly lower prices — CnEVPost](https://cnevpost.com/2025/11/04/byd-launches-2026-xia-mpv/)
+- [2026 Toyota RAV4 Pricing — Edmunds](https://www.edmunds.com/car-news/2026-toyota-rav4-pricing.html)
+- [2026 Toyota RAV4 Plug-In Hybrid Price: $42,920 — Motor1](https://www.motor1.com/news/789006/2026-toyota-rav4-plug-in-hybrid-price/)
+- [2026 Honda CR-V Review, Pricing and Trims — TrueCar](https://www.truecar.com/overview/honda/cr-v/)
+
+---
+
 ## Sources
 
 Manufacturer pricing power and the protection precedent (§1.5)
