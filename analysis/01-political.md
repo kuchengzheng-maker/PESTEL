@@ -23,6 +23,13 @@ collapsed to **5.8% in Q4 2025**, and was still at roughly **5.8–6%** through 
 half of 2026. Meanwhile the cheapest new EV an American can buy costs about **$29,000**,
 against roughly **$18,000 in Canada**, **$22,700 in Mexico**, and **$23,200 in Europe**.
 
+Two control comparisons pin the cause down. First, an identical non-Chinese vehicle —
+the Tesla Model Y Standard — costs within about 10% of the same amount in all four
+markets on a tax-adjusted basis, which rules out currency, cost, tax, and regulatory
+explanations for the entry-level gap. Second, the United States is the **only** one of
+these four markets where EV adoption went *backwards* in 2026: Europe +35%, Canada
+forecast +40%, Mexico +44%, the U.S. **−28%**.
+
 Neither policy is an accident or a side-effect. Both are the intended operation of
 deliberate industrial policy. The consumer-facing cost of that policy is the subject of
 this section.
@@ -192,7 +199,192 @@ a market for people who were probably buying a new car anyway.
 
 ---
 
-## 1.3 The expiration of the federal EV tax credit
+## 1.3 Six further comparisons
+
+The A-segment comparison in §1.2 is the headline, but it rests on a single non-identical
+vehicle class. The following six comparisons attack the same question from independent
+angles — three cross-border, three internal to the U.S. market. They converge.
+
+---
+
+### Comparison 1 — The same-model control: Tesla Model Y Standard in four markets
+
+If American EVs were expensive because of general cost, currency, labour, or
+market-structure differences, then *every* EV would be more expensive here, not just the
+cheap ones. The cleanest way to test that is to price an identical, non-Chinese vehicle
+across all four markets.
+
+The Model Y Standard is the ideal control: same manufacturer, near-identical
+specification, sold in all four markets, and completely unaffected by Chinese-EV policy.
+
+| Market | Local price | Consumption tax in sticker | Price **ex-tax** | ≈ USD ex-tax |
+|---|---|---|---|---|
+| **United States** | $39,990 | none | $39,990 | **$39,990** |
+| **Canada** | C$49,990 | none (GST/PST added at sale) | C$49,990 | **≈ $36,100** |
+| **Germany** | €39,990 | 19% VAT included | €33,605 | **≈ $39,100** |
+| **Mexico** | MXN 799,000 | 16% IVA included | MXN 688,800 | **≈ $39,100** |
+
+**The spread is about 10%, and the U.S. is not the outlier.** On a like-for-like,
+tax-adjusted basis a Model Y costs essentially the same in Austin, Berlin, and Mexico
+City, and slightly *less* in Toronto.
+
+This is the single most important comparison in the section, because of what it rules
+out. The U.S. entry-level premium documented in §1.2 is **not** an artifact of exchange
+rates, tax accounting, labour costs, dealer margins, safety regulation, or American
+consumer preference for larger vehicles. Those forces would show up in the Model Y row,
+and they don't.
+
+The gap exists at the bottom of the market and only at the bottom of the market — which
+is precisely where the excluded competitor would have sat.
+
+---
+
+### Comparison 2 — The price ladder: how many rungs exist below $25,000
+
+A market's affordability is better described by its ladder than by its average.
+
+| Market | Rungs below ≈$25,000 (USD equiv.) | Entry rung | Ladder shape |
+|---|---|---|---|
+| **Mexico** | Several — BYD Dolphin Mini 300 km and 380 km, plus rival Chinese entries | ≈$22,700 | Continuous from ≈$22,700 to ≈$79,500 (BYD Tang EV, MXN 1,399,000) |
+| **Canada** (from late 2026) | Multiple — BYD Seagull and Dolphin confirmed | ≈$18,050 | C$25,000–C$44,990 confirmed across four models |
+| **Europe** | Several — BYD Dolphin Surf, plus Dacia Spring, Citroën ë-C3, Leapmotor T03 and other A-segment entries | ≈$22,500 ex-VAT | Continuous from ≈€19,000 to €44,990 (BYD Seal) and up |
+| **United States** | **Zero** | **$28,995** | Ladder simply begins ~$29,000 |
+
+The U.S. does not have an expensive bottom rung. **It has no bottom rung.** Every other
+market in this comparison offers a continuous price ladder starting in the high teens or
+low twenties; the American ladder starts at $29,000 and the space beneath it is empty.
+
+That emptiness is the mechanism by which the policy reaches consumers. A household with
+a $25,000 ceiling is not offered a worse EV in America — it is offered none.
+
+---
+
+### Comparison 3 — The outcome comparison: BEV share of new-vehicle sales
+
+Price is an input. Adoption is the output. This comparison is where the "reach" question
+is actually answered — and it is also where the analysis has to be careful, because the
+result is not uniformly flattering to the simple story.
+
+| Market | BEV share of new sales | Direction in 2026 |
+|---|---|---|
+| **Europe** | **22%** (H1 2026); 24% in June. Germany 26%, France 28%, Norway 98%, Denmark 80% | **↑ BEV registrations +35% YoY** |
+| **Canada** | **≈10.5%** BEV (13.1% forecast for BEV+PHEV combined) | **↑ EV sales forecast +40.2% for 2026** |
+| **United States** | **5.8%** (Q1 2026), ≈6% (Q2) | **↓ new BEV sales −28% YoY** |
+| **Mexico** | **≈1.8%** BEV (electrified vehicles are 12.4% of light-vehicle sales; BEVs are 14.49% of that segment) | **↑ electrified sales +44% YoY; BYD holds ~70% of EV+PHEV sales** |
+
+Two findings, and the second one matters for intellectual honesty.
+
+**Finding A: the United States is the only market in this set where EV adoption went
+backwards in 2026.** Europe up 35%, Canada forecast up 40%, Mexico up 44%, the U.S. down
+28%. Four markets, four policy regimes, one outlier — and the outlier is the one that
+combined market exclusion with subsidy withdrawal in the same twelve months.
+
+**Finding B: cheap supply is necessary but not sufficient.** Mexico has the second-cheapest
+entry EV in this comparison and the *lowest* BEV share — roughly 1.8%, well below the U.S.
+Availability of a $22,700 electric car has not by itself produced mass adoption there,
+because Mexican adoption is constrained by household income, charging infrastructure, and
+a strong consumer preference for conventional hybrids (69% of the electrified segment).
+
+Finding B is a genuine limit on the argument and should be stated as one: removing the
+Chinese-EV exclusion would not, on its own, deliver European adoption rates to the U.S.
+What Finding B does *not* do is rescue the U.S. position — because the U.S. has high
+incomes and the densest fast-charging network of the four, i.e. exactly the preconditions
+Mexico lacks. America is the market where affordable supply would convert to adoption most
+efficiently, and it is the only one that has legislated that supply out of existence.
+
+---
+
+### Comparison 4 — Before and after the credit, holding the sticker constant
+
+This isolates the tax-credit variable cleanly: same car, same MSRP, different policy year.
+The "with credit" column is what a buyer paid before 30 September 2025; the current column
+is what the same vehicle costs today.
+
+| Model (2026, incl. destination) | Price today | Net with $7,500 credit | Effective increase | Qualifies for the replacement loan-interest deduction? |
+|---|---|---|---|---|
+| 2027 Chevrolet Bolt LT | $28,995 | $21,495 | **+$7,500** | **Yes** — Fairfax, Kansas |
+| 2026 Nissan Leaf S+ | $31,485 | $23,985 | **+$7,500** | **No** — imported from Japan |
+| 2026 Chevrolet Equinox EV LT1 | $36,495 | $28,995 | **+$7,500** | **No** — Ramos Arizpe, Mexico |
+| 2026 Tesla Model Y Standard | $39,990 | $32,490 | **+$7,500** | **Yes** — U.S.-assembled |
+| 2026 Hyundai Ioniq 5 SEL RWD | $41,400 | $33,900 | **+$7,500** | **Yes** — Georgia |
+
+Three observations:
+
+1. **Every affordable EV in America got $7,500 more expensive to the buyer in one day**,
+   with no corresponding change in the product.
+2. The §45W lease channel meant the "with credit" column was reachable **regardless of
+   assembly location or MSRP caps** — a leased imported EV captured the full $7,500. Its
+   repeal removed the credit *and* the workaround simultaneously.
+3. The replacement benefit is inversely correlated with need. The two cheapest EVs on this
+   list are the two that don't qualify for it.
+
+---
+
+### Comparison 5 — The EV against its own gasoline twin
+
+The most consumer-legible comparison is not international at all. It is the EV sitting
+next to the identical gasoline model in the same showroom.
+
+| Gasoline model | Price | Electric counterpart | Price | Gap today | Gap with the $7,500 credit |
+|---|---|---|---|---|---|
+| 2026 Chevrolet Equinox | $29,995 | Chevrolet Equinox EV LT1 | $36,495 | **+$6,500** | **−$1,000** (the EV was *cheaper*) |
+| 2026 Chevrolet Trax | $22,995 | 2027 Chevrolet Bolt LT | $28,995 | **+$6,000** | **−$1,500** (illustrative) |
+
+This is the clearest statement of what the credit's expiry did. Under the credit, the
+electric version of a mainstream American crossover **undercut its own gasoline sibling
+at the point of sale**. That is the threshold at which a technology stops requiring
+advocacy and starts selling on arithmetic.
+
+Today the same electric model carries a **$6,000–6,500 premium** over the gasoline car
+parked beside it, and the buyer must recover that through fuel savings over years of
+ownership. The Bolt row is illustrative rather than historical — the 2027 Bolt arrived
+after the credit lapsed and never benefited from it — which is itself the point: the car
+GM designed to be America's affordable EV launched into a market where the policy that
+would have made it cheaper than a Trax no longer exists.
+
+---
+
+### Comparison 6 — EVs against the broader new-vehicle market
+
+Finally, the EV segment against the market it is trying to join.
+
+| Metric (2026) | Value |
+|---|---|
+| Average new **EV** transaction price (July 2026) | **$56,126** — up 1.6% YoY |
+| Average new **vehicle** price, all powertrains | **≈$48,841**; record ATP ≈$50,364 in early 2026 |
+| **EV premium over the market average** | **≈$6,000–7,300** |
+| Average **used EV** listing price (March 2026) | **$34,653** — down 6.1% YoY |
+
+The EV segment sits roughly $6,000–7,300 above the average new vehicle, and the gap is
+widening again as manufacturers withdraw the incentives they used to substitute for the
+federal credit through early 2026.
+
+Note where demand went instead: used EV sales rose 12% year-on-year in Q1 2026 to 93,500
+units while used prices fell 6.1% to $34,653. American demand for electric vehicles did
+not evaporate — **it relocated to the only part of the market where the price was allowed
+to fall.** The used market is functioning as the affordable EV segment that policy
+prevents the new market from having.
+
+---
+
+### What the six comparisons establish together
+
+| Comparison | What it rules out or establishes |
+|---|---|
+| 1. Model Y control | Rules out cost, FX, tax, and regulatory explanations for the entry-price gap |
+| 2. Price ladder | Establishes the gap is a missing *segment*, not a uniform markup |
+| 3. BEV share | Establishes the U.S. is the only market where adoption reversed — while conceding cheap supply alone is insufficient (Mexico) |
+| 4. Before/after credit | Isolates a clean +$7,500 consumer cost increase, unrelated to the product |
+| 5. EV vs. gas twin | Shows the credit had achieved sticker parity, and its removal reopened a $6,000+ gap |
+| 6. EV vs. market | Shows the segment sits $6,000–7,300 above market average, with demand displaced into used vehicles |
+
+No single comparison carries the argument. Together they make it difficult to attribute
+the American EV affordability gap to anything other than the two political decisions
+examined in this section.
+
+---
+
+## 1.4 The expiration of the federal EV tax credit
 
 ### What ended, and when
 
@@ -307,7 +499,7 @@ is becoming a function of your ZIP code's politics rather than your household's 
 
 ---
 
-## 1.4 The two policies interact — and the interaction is the point
+## 1.5 The two policies interact — and the interaction is the point
 
 Taken separately, each policy has a defensible industrial logic. Taken together, they
 produce a specific and probably unintended consumer outcome:
@@ -338,7 +530,7 @@ directions at once.**
 
 ---
 
-## 1.5 Political outlook and watch items (2026–2030)
+## 1.6 Political outlook and watch items (2026–2030)
 
 | Watch item | Timing | Why it matters to price and reach |
 |---|---|---|
@@ -353,6 +545,26 @@ directions at once.**
 ---
 
 ## Sources
+
+Comparative pricing and adoption (§1.3)
+- [2026 Tesla Model Y Prices, Reviews, and Pictures — Edmunds](https://www.edmunds.com/tesla/model-y/)
+- [Starting at EUR 39,990: Tesla's Model Y Standard launches in Europe — electrive](https://www.electrive.com/2025/10/10/starting-at-e39990-teslas-model-y-standard-launches-in-europe/)
+- [Tesla launches Model Y Standard in Canada starting at $49K — Drive Tesla Canada](https://driveteslacanada.ca/news/tesla-launches-model-y-standard-in-canada-starting-at-49k/)
+- [Tesla Model Y 2026: precio y versiones en Mexico — AutosNuevos](https://www.autosnuevos.mx/marca/tesla/modelo/model-y-2026)
+- [European EV market starts 2026 with 20% BEV share — European Alternative Fuels Observatory](https://alternative-fuels-observatory.ec.europa.eu/general-information/news/european-ev-market-starts-2026-20-bev-share)
+- [European Car Market Monitor: June 2026 — ICCT](https://theicct.org/publication/european-car-market-monitor-june-2026/)
+- [2026 (June & First Half) Europe: Battery-Electric Car Sales by Country — Car Sales Statistics](https://www.best-selling-cars.com/europe/2026-june-first-half-europe-battery-electric-car-sales-by-european-country/)
+- [J.D. Power: Canadian EV sales expected to rise by 40.2% in 2026 — Collision Repair Mag](https://www.collisionrepairmag.com/news/collision-repair/market-trends/article/15830088/jd-power-canadian-ev-sales-expected-to-rise-by-402-in-2026)
+- [Canada's EV sales stuck in the ditch one year after policy breakdown — National Observer](https://www.nationalobserver.com/2026/07/27/analysis/canada-ev-sales-stalled)
+- [Mexico EV Adoption Accelerates as Electrified Sales Hit 12.5% — Mexico Business News](https://mexicobusiness.news/automotive/news/mexico-ev-adoption-accelerates-electrified-sales-hit-125)
+- [Mexico Electrified Vehicle Sales Rise 44% in 1H26 — Mexico Business News](https://mexicobusiness.news/automotive/news/mexico-electrified-vehicle-sales-rise-44-1h26)
+- [BYD claims 70% of EV and PHEV sales in Mexico as Canada opens the floodgates — Electrek](https://electrek.co/2026/01/29/byd-claims-70-ev-sales-mexico-as-canada-opens-the-door/)
+- [BYD cuts Atto 3, Dolphin, Seal prices in Germany — Automotive News](https://www.autonews.com/automakers/byd-cuts-atto-3-dolphin-seal-prices-germany/)
+- [BYD Seal Price in Germany: The Full Cost Breakdown (2026)](https://evparts4x4.com/blogs/news/byd-seal-price-in-germany-cost-breakdown-2026)
+- [How Much Is the 2026 Chevrolet Equinox? — Cars.com](https://www.cars.com/articles/how-much-is-the-2026-chevrolet-equinox-509224/)
+- [How Much Is the 2026 Chevrolet Trax? — Cars.com](https://www.cars.com/articles/how-much-is-the-2026-chevrolet-trax-515649/)
+- [Average New Car Price in 2026: $48,841 — MoneyGeek](https://www.moneygeek.com/resources/average-price-of-a-new-car/)
+- [How The Tesla Model Y Standard Stacks Up To The Competition — InsideEVs](https://insideevs.com/reviews/775061/tesla-model-y-standard-vs-competition-ioniq-5-equinox-ev-mach-e/)
 
 Policy — Chinese EVs and tariffs
 - [BIS Issues Final Rule Regarding Connected Vehicles — Baker McKenzie](https://sanctionsnews.bakermckenzie.com/bis-issues-final-rule-regarding-connected-vehicles/)
