@@ -200,6 +200,13 @@ entry price for an electric car sits roughly **$6,000–11,000 above** that of e
 comparable market — and unlike a tariff, that gap cannot be competed away, because the
 competitor is legally barred rather than merely taxed.
 
+One further calibration, from Appendix A: the rung missing from the American ladder is a
+**$20,000–23,000** car, not a $10,000 one. The same BYD Seagull that lists at roughly
+$9,200 ex-tax in China sells for about $18,050 in Canada, $19,533 in Germany, and $19,583
+in Mexico — every export market roughly doubles the Chinese price, including the ones
+where the car is entirely legal. The relevant counterfactual for the U.S. is therefore
+Canada, Mexico, and Europe, never China's domestic price.
+
 State that carefully, though. Comparison 7 in §1.3 shows this nominal gap narrows to
 roughly 13% against Canada, and to nothing against Germany, once local incomes and
 vehicle price levels are taken into account. The durable finding is therefore not that
@@ -844,6 +851,206 @@ from excluding a low-cost competitor did not reach the showroom floor.
 | **State-level backfill** | 2026–2028 | Whether more states adopt California/Colorado-style rebates determines how wide the geographic adoption gap becomes |
 | **2028 sunset of the loan-interest deduction** | Dec 2028 | Removes the last federal consumer-side EV benefit unless renewed |
 | **EU minimum-price mechanism outcomes** | 2026–2027 | If it works, it becomes the template for a "third way" the U.S. has so far declined to consider |
+
+---
+
+## Appendix A — Cross-market price matrix by segment, trim, and market position
+
+**Scope:** United States, Canada, Mexico, Europe (Germany as reference market), and China.
+**Method:** all figures converted to USD **excluding consumption tax**, so they are
+comparable with U.S. stickers. Deductions applied: China 13% VAT, Germany 19% VAT,
+Mexico 16% IVA (BYD and Chevrolet list IVA-inclusive; **Ford México lists ex-IVA**, so no
+deduction is applied there). Canadian and U.S. lists are already ex-tax. Rates: USD/CNY
+6.72, USD/MXN 17.6, USD/EUR 0.86, USD/CAD 1.385 (September 2026).
+
+---
+
+### A.1 The finding that changes the argument
+
+Adding China does something the four-market comparison could not: it separates **what a
+car costs to make and sell at home** from **what it costs once exported**. The result
+requires a correction to §1.2.
+
+The same vehicle — BYD's Seagull, sold as Dolphin Mini in Mexico and Dolphin Surf in
+Europe — across five markets:
+
+| Market | Name | List price | ≈ USD ex-tax | vs. China |
+|---|---|---|---|---|
+| **China** | Seagull, 305 km Vitality | ¥69,900 | **$9,205** | — |
+| **Canada** | Seagull (from late 2026) | C$25,000 | **$18,051** | **1.96×** |
+| **Europe (DE)** | Dolphin Surf Active | €19,990 | **$19,533** | **2.12×** |
+| **Mexico** | Dolphin Mini, 300 km | MXN 399,800 | **$19,583** | **2.13×** |
+| **United States** | — | **not sold** | **—** | **∞** |
+
+**Every export market roughly doubles the Chinese price** — including Europe and Mexico,
+where the car is perfectly legal to sell. Export tariffs, shipping, homologation, dealer
+network build-out, and BYD's own strategy of pricing high abroad to fund its domestic
+price war account for the gap.
+
+The correction this forces: **the rung missing from the American ladder is a
+$20,000–23,000 car, not a $10,000 car.** Anyone arguing that admitting Chinese EVs would
+put a $10,000 electric car in American driveways is extrapolating a domestic Chinese price
+that has never survived a border crossing anywhere. §1.2 should be read with that
+calibration — the U.S. gap versus Canada, Mexico and Europe is real and is the relevant
+comparison; the gap versus China is not a policy counterfactual.
+
+### A.2 The control that proves it is an export effect, not a "cheap Chinese car" effect
+
+Tesla builds the Model Y in Shanghai for China, Austin/Fremont for the U.S., and Berlin
+for Europe. Local production in each market, so no export escalation:
+
+| Market | Model Y entry trim | List price | ≈ USD ex-tax | vs. China |
+|---|---|---|---|---|
+| **China** | RWD | ¥263,500 | **$34,700** | — |
+| **Canada** | Standard | C$49,990 | **$36,094** | 1.04× |
+| **Germany** | Standard | €39,990 | **$39,076** | 1.13× |
+| **Mexico** | Standard RWD | MXN 799,000 | **$39,136** | 1.13× |
+| **United States** | RWD | $39,990 | **$39,990** | **1.15×** |
+
+A 15% spread top to bottom, against 113% for the Seagull. The escalation is a property of
+**exporting**, not of Chinese manufacturing. Where a manufacturer produces locally, prices
+converge across all five markets — the U.S. included.
+
+---
+
+### A.3 Full matrix by segment
+
+#### Segment A — city car (≈3.7–4.0 m)
+
+| Market | Model | Trim ladder (list) | ≈ USD ex-tax |
+|---|---|---|---|
+| **China** | BYD Seagull | ¥69,900 / ¥78,900 / ¥78,900 / ¥85,900; with LiDAR ¥90,900 / ¥97,900 | **$9,205 – $12,893** |
+| **Mexico** | BYD Dolphin Mini | MXN 399,800 (300 km) / 415,800 (380 km) | $19,583 – $20,366 |
+| **Europe (DE)** | BYD Dolphin Surf | €19,990 Active / €22,990 / €24,990 Comfort | $19,533 – $24,419 |
+| **Canada** | BYD Seagull | C$25,000 (entry, confirmed) | $18,051 |
+| **United States** | — | **no product in segment** | **—** |
+
+#### Segment B — small hatchback (≈4.1–4.3 m)
+
+| Market | Model | Trim ladder (list) | ≈ USD ex-tax |
+|---|---|---|---|
+| **Europe (DE)** | BYD Dolphin | €25,920 | $25,328 |
+| **United States** | 2027 Chevrolet Bolt | $28,995 LT (incl. destination) | **$28,995** |
+| **United States** | 2026 Nissan Leaf | $31,485 S+ (incl. destination) | $31,485 |
+| **China** | BYD Dolphin | *not sourced for 2026* | — |
+
+This is where the American ladder actually begins. The Bolt is the cheapest new EV in the
+United States and sits in the segment *above* every other market's entry point.
+
+#### Segment C — compact SUV (≈4.4–4.6 m)
+
+| Market | Model | Trim ladder (list) | ≈ USD ex-tax |
+|---|---|---|---|
+| **China** | BYD Yuan Plus (Atto 3) | ¥119,900 – ¥149,900, four trims | **$15,790 – $19,741** |
+| **Europe (DE)** | BYD Atto 3 | €37,041 promo / €38,990 list | $36,194 – $38,099 |
+| **United States** | Chevrolet Equinox EV | $36,495 LT1 / $43,295 LT2 / $45,595 RS | $36,495 – $45,595 |
+| **Mexico** | Chevrolet Equinox EV | MXN 900,000 — **RS only** | ≈$44,083 |
+| **Canada** | BYD Atto 3 | within the confirmed C$25,000–44,990 band | ≈$18,051 – $32,484 |
+
+The sharpest row in the appendix: **the same Atto 3 is $15,790 in China and $36,194 in
+Germany — 2.3×.** European buyers pay European prices for Chinese cars. The "flood of
+cheap Chinese EVs" arrives at the border and stops being cheap.
+
+Note also that Mexico is offered **only the top RS trim** of the Equinox EV. On entry
+price in this segment, the American buyer is better served than the Mexican one.
+
+#### Segment D — mid-size sedan and SUV
+
+| Market | Model | Trim ladder (list) | ≈ USD ex-tax |
+|---|---|---|---|
+| **China** | Tesla Model 3 | ¥245,900 RWD | $32,383 |
+| **China** | Tesla Model Y | ¥263,500 / ¥288,500 / ¥313,500; Model Y L ¥339,000 | $34,700 – $44,643 |
+| **China** | BYD Seal 08 | from ¥196,900 | $25,930 |
+| **United States** | Tesla Model 3 | $36,990 / $42,490 Premium RWD / $47,490 Premium AWD / $54,990 Performance (+$1,640) | $36,990 – $54,990 |
+| **United States** | Tesla Model Y | $39,990 / $41,990 / $44,990 / $48,990 / $57,490; Model Y L $61,990 | $39,990 – $61,990 |
+| **Canada** | Tesla Model Y | C$49,990 Standard | $36,094 |
+| **Germany** | Tesla Model Y | €39,990 Standard | $39,076 |
+| **Germany** | BYD Seal | €44,990 | $43,962 |
+| **Mexico** | Tesla Model Y | MXN 799,000 – 1,129,000 | $39,136 – $55,300 |
+| **Mexico** | Tesla Model 3 | MXN 1,029,900 | $50,446 |
+| **Canada** | BYD Seal | C$44,990 (top of confirmed band) | $32,484 |
+
+#### Premium / performance
+
+| Market | Model | Trim ladder (list) | ≈ USD ex-tax |
+|---|---|---|---|
+| **United States** | Ford Mustang Mach-E | $37,795 Select → $53,395 GT | $37,795 – $53,395 |
+| **Germany** | Ford Mustang Mach-E | €55,800 → €57,900 AWD → €77,300 GT | $54,524 – $75,532 |
+| **Mexico** | Ford Mustang Mach-E | MXN 996,500 Select / 1,250,500 Premium / 1,350,500 GT / 1,395,500 Rally | $56,619 – $79,290 |
+| **Mexico** | BYD Tang EV | MXN 1,399,000 | $68,525 |
+| **United States** | Tesla Model Y L | $61,990 | $61,990 |
+
+---
+
+### A.4 What the matrix shows about market *position*
+
+Price level is only half the story. The same vehicle occupies a different rung of the
+social ladder in each market, and it inverts by brand nationality.
+
+| Vehicle | Position in home market | Position abroad |
+|---|---|---|
+| **BYD Seagull / Dolphin Surf** | China: entry-level urban runabout, ~$9,200 | Europe & Mexico: **mid-market**, competing with mainstream superminis at 2.1× the price |
+| **BYD Atto 3** | China: mainstream family SUV, ~$15,800 | Germany: **upper-mainstream**, priced against a VW ID.3/ID.4 at 2.3× |
+| **Ford Mustang Mach-E** | U.S.: mainstream crossover from $37,795 | Germany & Mexico: **premium import**, $54,500–79,300, priced against German luxury marques |
+| **Tesla Model Y** | Effectively home-market everywhere it is built | Consistent upper-mainstream position in all five markets |
+
+Two brand strategies, mirrored. **Chinese brands are value at home and mid-market abroad;
+American brands are mainstream at home and premium abroad.** Neither is exporting its
+domestic price position, and neither is being priced by cost alone.
+
+### A.5 Trim-ladder shape: where each market has depth
+
+| Market | Bottom of ladder | Top of ladder | Ladder shape |
+|---|---|---|---|
+| **China** | $9,205 (Seagull) | $44,643 (Model Y L) | Deep at the bottom, thin at the top |
+| **Canada** | $18,051 (Seagull) | $36,094+ (Model Y) | Broad, low entry |
+| **Mexico** | $19,583 (Dolphin Mini) | $79,290 (Mach-E Rally) | Widest overall span; imports carry premium pricing |
+| **Europe (DE)** | $19,533 (Dolphin Surf) | $75,532 (Mach-E GT) | Continuous across the full range |
+| **United States** | **$28,995 (Bolt)** | **$61,990 (Model Y L)** | **Deep at the top, nothing below $29,000** |
+
+The United States has the **most developed trim ladder above $40,000** in this comparison —
+the Model Y alone spans six trims from $39,990 to $61,990, and the Model 3 four more —
+and the **only ladder with no rung beneath $28,995.** American manufacturers did not stop
+building variety. They stopped building it downward.
+
+### A.6 Data gaps and cautions
+
+Stated plainly so the table is not over-read:
+
+- **Canadian model-level prices are forward estimates.** Only the C$25,000 entry point is
+  BYD-confirmed; the C$44,990 ceiling and the model-by-model allocation within that band
+  are dealer guidance ahead of a late-2026 launch.
+- **BYD Dolphin (B-segment) China pricing for 2026 is not sourced here** and has been left
+  blank rather than estimated.
+- **Mexican BYD prices above the Dolphin Mini** were not reliably sourced at model level
+  and are omitted; only the Dolphin Mini and the Tang EV ceiling are included.
+- **IVA treatment differs by brand in Mexico.** Ford México states its listings exclude
+  IVA; BYD and Chevrolet listings are treated as IVA-inclusive. If that assumption is wrong
+  for Chevrolet, the Equinox EV Mexico figure rises to ≈$51,100.
+- **Segment labels are approximate.** Cross-market segment definitions differ, and trim
+  content is not equalized — a €19,990 Dolphin Surf Active is a 30 kWh, 220 km car, while
+  a $28,995 Bolt is a 65 kWh, 262-mile car. **These are price-point comparisons, not
+  value-for-money comparisons.**
+- **Chinese prices are pre-subsidy list prices** and exclude regional NEV incentives and
+  trade-in support, which in practice reduce them further.
+
+### Sources — Appendix A
+
+- [2026 BYD Seagull launched with optional LiDAR and 405 km range — CarNewsChina](https://carnewschina.com/2026/05/11/2026-byd-seagull-dolphin-mini-surf-launched-with-optional-lidar-and-405-km-range/)
+- [BYD launches 2026 Seagull, bringing LiDAR to micro EVs — CnEVPost](https://cnevpost.com/2026/05/11/byd-launches-2026-seagull/)
+- [New BYD Atto 3 with 120 km extra range, priced from 16,600 USD in China — CarNewsChina](https://carnewschina.com/2026/05/21/new-byd-atto-3-with-120-km-extra-range-and-flash-charging-priced-from-16600-usd-in-china/)
+- [BYD's new Yuan Plus EV adds more range and fast charging for $18,000 — Electrek](https://electrek.co/2026/05/26/byds-new-yuan-plus-ev-adds-range-fast-charging-for-18000/)
+- [BYD Seal 08 launched from 28,980 USD in China — CarNewsChina](https://carnewschina.com/2026/07/02/byd-seal-08-flagship-sedan-launch-china/)
+- [Tesla China Updates Model 3 & Y Pricing: Full Lineup March 2026 — Basenor](https://www.basenor.com/blogs/news/tesla-china-updates-model-3-y-pricing-full-lineup-march-2026)
+- [Tesla makes minor updates to Model Y in China, prices unchanged — CnEVPost](https://cnevpost.com/2026/01/06/tesla-makes-minor-updates-to-model-y-china/)
+- [2026 Tesla Model 3 Prices — Edmunds](https://www.edmunds.com/tesla/model-3/)
+- [BYD cuts Atto 3, Dolphin, Seal prices in Germany — Automotive News](https://www.autonews.com/automakers/byd-cuts-atto-3-dolphin-seal-prices-germany/)
+- [BYD Europe Price List 2026: All Models and Trim Costs](https://www.evchina.co/guides/byd-prices-europe)
+- [BYD Canada Confirms 4 Models, Official Prices, and 20-Dealership Roadmap](https://china-ev.ca/en/news/byd-canada-4-models-prices-dealerships-confirmed-2026)
+- [Mustang Mach-E 2026: Versiones y Precios — Ford México](https://www.ford.mx/suv/mach-e/2026/versiones-precios/)
+- [BYD en México 2026: Guía de Precios y Modelos](https://bydtoday.com/es-mx/byd-mexico-2026-precios-modelos-costo-carga-cfe/)
+- [Chinese Yuan exchange rate — Trading Economics](https://tradingeconomics.com/china/currency)
+
 
 ---
 
